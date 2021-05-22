@@ -1,0 +1,5 @@
+﻿  Basket.cpp
+  restaurant_bar.cpp
+  Создание кода...
+D:\Первый Сайт\C++\Курсовые\Антон\Бар\restaurant_bar\restaurant_bar\restaurant_bar.cpp(163): warning C4715: SignIn: значение возвращается не при всех путях выполнения
+  restaurant_bar.vcxproj -> D:\Первый Сайт\C++\Курсовые\Антон\Бар\restaurant_bar\Debug\restaurant_bar.exe
